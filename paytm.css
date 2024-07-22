@@ -1,0 +1,69 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* navbar css */
+.navbar{
+    margin-top: 3%;
+}
+.navbar a{
+    padding: 1%;
+    margin-left: 2%;
+    padding-top: 3%;
+    vertical-align: middle;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-size: 17px;
+}
+.btn{
+    background-color: #51c1ed;
+    padding: 1%;
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+    color: white;
+    font-size: 17px;
+}
+.btn:hover{
+    background-color: #0b0b7b;
+}
+.wallet{
+    background-color: rgb(219, 216, 216);
+    padding: 1%;
+    text-align: center;
+}
+.sec2{
+    display: flex;
+    flex-direction: row;
+}
+.sec2one{
+    margin-left: 6%;
+}
+.sec2one img{
+    width: 15%;
+}
+.sec2one h1{
+    margin-top: 5%;
+    font-size: 54px;
+}
+.sce2one p{
+    margin-top: 5%;
+    font-size: 25px;
+}
+.btn2{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    padding: 2%;
+    font-weight: bold;
+    margin-top: 6%;
+    font-size: 18px;
+}
+.btn:hover{
+    border: 1px solid black;
+    color: black;
+    background-color: white;
+}
